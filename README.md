@@ -8,4 +8,7 @@ As an aspiring developer, I aim to blend creativity😊 with functionality. I'm 
 - A clean and intuitive user interface
 - Responsive design for seamless browsing across all devices
 - A showcase of my projects, skills, and experiences Dive into my journey through code and design. Your feedback and support mean the world to me!
+  
 CodSoft-Level 1-Task 1
+
+Thank You!
