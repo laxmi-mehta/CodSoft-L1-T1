@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Music-website",
+    "desc": "It is just basic music website with animations. Built using Next-js and Acernity-UI.",
+    "image": "music-website",
+    "category": "next-js",
+    "links": {
+      "view": "https://github.com/laxmi-mehta/music-website-nextjs",
+      "code": "https://github.com/laxmi-mehta/music-website-nextjs"
+    }
+  },
+  {
+    "name": "Bmi-Calculator-website",
+    "desc": "It is bmi-calculator. Built using React-js.",
+    "image": "bmi-calculator-website",
+    "category": "react-js",
+    "links": {
+      "view": "https://bmi-calculator-reactjs-git-main-laxmi-mehtas-projects.vercel.app/",
+      "code": "https://github.com/laxmi-mehta/bmi-calculator-reactjs"
+    }
+  },
+  {
+    "name": "Todo-List-Website",
+    "desc": "It is todo-list website. Built using React-js.",
+    "image": "todo-list-website",
+    "category": "react-js",
+    "links": {
+      "view": "https://todo-list-reactjs-git-main-laxmi-mehtas-projects.vercel.app/",
+      "code": "https://github.com/laxmi-mehta/todo-list-reactjs"
+    }
+  },
+  {
+    "name": "Real-Estate-Website",
+    "desc": "It is real-estate website. Built using React-js.",
+    "image": "real-estate-website",
+    "category": "react-js",
+    "links": {
+      "view": "https://real-estate-git-main-laxmi-mehtas-projects.vercel.app/",
+      "code": "https://github.com/laxmi-mehta/real-estate-reactjs"
+    }
+  },
+ 
+  {
+    "name": "Fitness-Club-Website",
+    "desc": "It is fitness-club website. Built using React-js.",
+    "image": "fitness-club-website",
+    "category": "react-js",
+    "links": {
+      "view": "https://fitness-club-reactjs-git-main-laxmi-mehtas-projects.vercel.app/",
+      "code": "https://github.com/laxmi-mehta/fitness-club-reactjs"
+    }
+  },
+  
+  {
+    "name": "Expense-Tracker-App",
+    "desc": "It is expense tracker app. Built using Vue-js.",
+    "image": "expense-tracker-app",
+    "category": "vue-js",
+    "links": {
+      "view": "https://expense-tracker-vuejs-git-main-laxmi-mehtas-projects.vercel.app/",
+      "code": "https://github.com/laxmi-mehta/expense-tracker-vuejs"
+    }
+  },
+  {
+    "name": "Food-Website",
+    "desc": "It is food website. Built using Html, Css, Javascript.",
+    "image": "food-website",
+    "category": "basic-web",
+    "links": {
+      "view": "https://github.com/laxmi-mehta/food_website",
+      "code": "https://laxmi-mehta.github.io/food_website/"
+    }
+  },
+ 
+  {
+    "name": "Dice-Game-Website",
+    "desc": "It is dice game website. Built using React-js.",
+    "image": "dice-game-website",
+    "category": "react-js",
+    "links": {
+      "view": "https://dice-game-git-main-laxmi-mehtas-projects.vercel.app/",
+      "code": "https://github.com/laxmi-mehta/Dice-game"
+    }
+  },
+  {
+    "name": "Django-skin-disease-detection-app",
+    "desc": "It is the whole web application giving the idea of skin disease detection. Built using fronted technologies, CNN algo, Python, Django",
+    "image": "Django-app",
+    "category": "django",
+    "links": {
+      "view": "https://github.com/laxmi-mehta/skin-disease-detection-app",
+      "code": "https://github.com/laxmi-mehta/skin-disease-detection-app"
+    }
+  }  
+]
