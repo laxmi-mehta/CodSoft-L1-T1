@@ -1,4 +1,4 @@
-Live Preview - https://laxmi-mehta.netlify.app/
+Live Preview -[ https://laxmi-mehta.netlify.app/](https://laxmi-mehta.netlify.app/)
 
 🚀Excited to unveil my latest portfolio project showcasing my expertise in HTML and CSS!💻✨ 
 🎨Presenting my personal portfolio website, crafted with passion and a love for coding.
