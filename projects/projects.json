@@ -1,4 +1,24 @@
-[
+[ 
+  {
+    "name": "TrafficManagement-ML",
+    "desc": "It is traffic management system using ML with animations. Built using python, PPO, reinforcement learning ",
+    "image": "traffic-management-ml",
+    "category": "django",
+    "links": {
+      "view": "https://github.com/laxmi-mehta/TrafficManagement-ML",
+      "code": "https://github.com/laxmi-mehta/TrafficManagement-ML"
+    }
+  },
+  {
+    "name": "Django-RestAPI",
+    "desc": "It is rest api example where user can be created, deleted and updated. Built using django, RESTFUL API, MongoDB Atlas.",
+    "image": "django-restapi",
+    "category": "django",
+    "links": {
+      "view": "https://github.com/laxmi-mehta/django-rest-api",
+      "code": " https://github.com/laxmi-mehta/django-rest-api"
+    }
+  },
   {
     "name": "Music-website",
     "desc": "It is just basic music website with animations. Built using Next-js and Acernity-UI.",
@@ -9,6 +29,7 @@
       "code": "https://github.com/laxmi-mehta/music-website-nextjs"
     }
   },
+  
   {
     "name": "Bmi-Calculator-website",
     "desc": "It is bmi-calculator. Built using React-js.",
@@ -62,17 +83,6 @@
     }
   },
   {
-    "name": "Food-Website",
-    "desc": "It is food website. Built using Html, Css, Javascript.",
-    "image": "food-website",
-    "category": "basic-web",
-    "links": {
-      "view": "https://github.com/laxmi-mehta/food_website",
-      "code": "https://laxmi-mehta.github.io/food_website/"
-    }
-  },
- 
-  {
     "name": "Dice-Game-Website",
     "desc": "It is dice game website. Built using React-js.",
     "image": "dice-game-website",
@@ -91,5 +101,15 @@
       "view": "https://github.com/laxmi-mehta/skin-disease-detection-app",
       "code": "https://github.com/laxmi-mehta/skin-disease-detection-app"
     }
-  }  
+  },
+  {
+    "name": "Food-Website",
+    "desc": "It is food website. Built using Html, Css, Javascript.",
+    "image": "food-website",
+    "category": "basic-web",
+    "links": {
+      "view": "https://github.com/laxmi-mehta/food_website",
+      "code": "https://laxmi-mehta.github.io/food_website/"
+    }
+  }
 ]
